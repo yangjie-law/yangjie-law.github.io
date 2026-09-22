@@ -27,4 +27,4 @@ GitHub Pages 会在 1–2 分钟内自动重新发布。
 ## 搜索引擎收录（SEO）
 
 页面已内置：meta description / keywords、Open Graph、JSON-LD(Person) 结构化数据、sitemap.xml、robots.txt。
-发布后建议到 [Google Search Console](https://search.google.com/search-console) 提交 `https://maojiumiao-cloud.github.io/sitemap.xml` 加速收录。
+发布后建议到 [Google Search Console](https://search.google.com/search-console) 提交 `https://yangjie-law.github.io/sitemap.xml` 加速收录。
