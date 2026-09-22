@@ -1,1 +1,6 @@
 _v1_backup/
+
+# 临时校验文件
+_*.html
+_*.txt
+_*.png
