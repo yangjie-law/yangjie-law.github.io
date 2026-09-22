@@ -1,6 +1,6 @@
 # Jie Yang — Personal Academic Website
 
-Personal academic homepage of **Jie Yang (杨洁)** — Ph.D. in Law (Environmental Law), University of Copenhagen; Lecturer at Harbin Normal University.
+Personal academic homepage of **Jie Yang (杨洁)** — Ph.D. in Law (Environmental Law), University of Copenhagen; Assistant Professor at Harbin Normal University.
 
 **Live site:** https://yangjie-law.github.io/
 
