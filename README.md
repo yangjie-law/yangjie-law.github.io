@@ -2,7 +2,7 @@
 
 Personal academic homepage of **Jie Yang (杨洁)** — Ph.D. in Law (Environmental Law), University of Copenhagen; Lecturer at Harbin Normal University.
 
-**Live site:** https://maojiumiao-cloud.github.io/
+**Live site:** https://yangjie-law.github.io/
 
 Research areas: Environmental Law · Circular Economy Law · EU Law · Comparative Law
 

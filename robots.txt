@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://maojiumiao-cloud.github.io/sitemap.xml
+Sitemap: https://yangjie-law.github.io/sitemap.xml
