@@ -192,6 +192,11 @@ section { margin-bottom: 44px; scroll-margin-top: 70px; }
 .skills b { flex: 0 0 96px; color: var(--link-dark); font-size: .88rem; }
 .skills span { color: var(--text-soft); }
 
+/* 机会 */
+.opp-list { margin-top: 16px; }
+.opp-list b { flex: 0 0 112px; }
+.opp-note { margin-top: 14px; font-size: .85rem; color: var(--text-light); line-height: 1.8; }
+
 footer {
   margin-top: 24px; padding-top: 20px; border-top: 1px solid var(--border);
   color: var(--text-light); font-size: .82rem;
