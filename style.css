@@ -109,6 +109,17 @@ section { margin-bottom: 44px; scroll-margin-top: 70px; }
 .welcome p { margin-bottom: 12px; font-size: .97rem; }
 .welcome p:last-child { margin-bottom: 0; }
 
+/* 生活花絮 */
+.life-gallery { display: flex; gap: 14px; margin: 18px 0 10px; }
+.life-gallery figure {
+  flex: 1; margin: 0; border-radius: 12px; overflow: hidden;
+  box-shadow: 0 3px 12px rgba(0,0,0,.10);
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+.life-gallery figure:hover { transform: translateY(-4px); box-shadow: 0 8px 20px rgba(0,0,0,.16); }
+.life-gallery img { display: block; width: 100%; height: auto; aspect-ratio: 4/5; object-fit: cover; }
+.life-caption { font-size: .88rem; color: var(--text-light); margin-top: 6px; }
+
 /* 研究方向 */
 .interests li, .plain-list li {
   list-style: none; position: relative;
