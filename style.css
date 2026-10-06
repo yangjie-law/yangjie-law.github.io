@@ -124,14 +124,14 @@ section { margin-bottom: 44px; scroll-margin-top: 70px; }
 /* 可持续发展目标 */
 .sdg-intro { font-size: .95rem; color: var(--text-soft); margin-bottom: 16px; }
 .sdg-grid { list-style: none; display: grid; grid-template-columns: 1fr 1fr; gap: 16px 24px; }
-.sdg-grid li { display: flex; gap: 12px; align-items: flex-start; }
+.sdg-grid li { display: flex; gap: 12px; align-items: center; }
 .sdg-icon {
   flex: 0 0 68px; width: 68px; height: 68px; border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,.15);
   transition: transform .25s ease;
 }
 .sdg-grid li:hover .sdg-icon { transform: scale(1.05); }
-.sdg-txt b { display: block; font-size: .92rem; color: var(--text); margin-bottom: 2px; }
+.sdg-txt b { display: block; font-size: .95rem; color: var(--text); }
 .sdg-txt span { font-size: .85rem; color: var(--text-light); line-height: 1.6; }
 .sdg-note { font-size: .78rem; color: var(--text-light); margin-top: 14px; }
 @media (max-width: 640px) { .sdg-grid { grid-template-columns: 1fr; } }
